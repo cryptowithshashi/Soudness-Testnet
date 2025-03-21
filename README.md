@@ -14,7 +14,7 @@ Soundness Labs is a Web3 infrastructure project focused on advancing zero-knowle
  - You can run the code on github codespace
  - Copy the public key and head to discord channel
  - Go to testnet access server and enter your public key
- - Join discord server -- [CLICK HERE}[(https://discord.gg/CY4BgwsF)
+ - Join discord server -- [CLICK HERE}(https://discord.gg/CY4BgwsF)
  - For video guide check out our telegram channel -- [CLICK HERE](https://t.me/crypto_with_shashi)
  
 
