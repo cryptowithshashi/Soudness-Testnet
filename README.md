@@ -67,6 +67,6 @@ Generate Your Key
 ```
 ## CONCLUSION
 
-You're all set! You've successfully set up your environment and generated your key for the testnet. If you encounter any issues or have questions, please feel free to reach out on our Discord channel.
+You're all set! You've successfully set up your environment and generated your key for the testnet. If you encounter any issues or have questions, please feel free to reach out on our Telegram channel.
 
 - Our Telegram channel -- [CLICK HERE](https://t.me/crypto_with_shashi)
